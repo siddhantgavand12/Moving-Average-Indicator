@@ -23,7 +23,6 @@ To run this project, you need the following Python libraries installed:
    ```bash
    git clone https://github.com/your-username/hand-tracking-drawing-app.git
 
-
 ## Setup
 
 1. Install dependencies:
