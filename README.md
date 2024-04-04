@@ -24,7 +24,7 @@ To run this project, you need the following Python libraries installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hand-tracking-drawing-app.git
+   git clone https://github.com/siddhantgavand12/Moving-Average-Indicator.git
 
 ## Setup
 
