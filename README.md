@@ -32,7 +32,7 @@ To run this project, you need the following Python libraries installed:
 
 2. Run the Python script in jupyter notebook
 
-## Output
+## Output Image
 
 
    
