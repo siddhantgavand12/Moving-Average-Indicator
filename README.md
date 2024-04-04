@@ -34,6 +34,7 @@ To run this project, you need the following Python libraries installed:
 
 ## Output Image
 
+   https://github.com/siddhantgavand12/Moving-Average-Indicator/assets/122528514/11ec47f1-8b8a-435c-b5bd-12b1619aedb1
 
    
     
