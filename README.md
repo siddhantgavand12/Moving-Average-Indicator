@@ -19,8 +19,8 @@ To run this project, you need the following Python libraries installed:
 ## Installation
 You can install the required libraries using pip:
 
-```bash
-pip install yfinance pandas matplotlib
+  ```bash
+  pip install yfinance pandas matplotlib
 
-
-## Installation
+Usage
+1.
