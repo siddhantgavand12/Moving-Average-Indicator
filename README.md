@@ -17,10 +17,16 @@ To run this project, you need the following Python libraries installed:
 - `matplotlib`
 
 ## Installation
-You can install the required libraries using pip:
 
-  ```bash
-  pip install yfinance pandas matplotlib
+1. Clone the repository:
 
-Usage
-1.
+   ```bash
+   git clone https://github.com/your-username/hand-tracking-drawing-app.git
+
+
+## Setup
+
+1. Install dependencies:
+
+    ```bash
+   pip install -r requirements.txt
