@@ -25,7 +25,15 @@ To run this project, you need the following Python libraries installed:
 
 ## Setup
 
-1. Install dependencies:
+1. Install dependencies on your machine:
 
     ```bash
    pip install -r requirements.txt
+
+2. Run the Python script in jupyter notebook
+
+## Output
+
+
+   
+    
