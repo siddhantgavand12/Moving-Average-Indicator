@@ -8,7 +8,6 @@ The Moving Average Indicator project is a Python-based tool that utilizes the `y
 
 
 ## Table of Contents
-- [Description](#description)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Setup](#setup)
