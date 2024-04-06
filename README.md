@@ -1,7 +1,7 @@
 # Moving Average Indicator
 
 ## Description
-The Moving Average Indicator project is a Python-based tool that utilizes the `yfinance`, `pandas`, and `matplotlib` libraries. It's designed to generate buy and sell signals using the Moving Average Convergence Divergence (MACD) indicator. Here's how it works:
+The Moving Average Indicator project is a Python-based tool that utilizes the `yfinance`, `pandas`, and `matplotlib` libraries. It's designed to generate buy and sell signals using the Moving Average  indicator. Here's how it works:
 
 - When the 20-day Exponential Moving Average (EMA) crosses above the 50-day EMA, a buy signal is generated.
 - Conversely, when the 20-day EMA crosses below the 50-day EMA, a sell signal is generated. These signals are visually represented on the price chart using green and red arrows, respectively.
